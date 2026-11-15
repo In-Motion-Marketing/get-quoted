@@ -87,10 +87,10 @@ On Windows, the folder is `%USERPROFILE%\.claude\skills`. Or put it in `.claude/
 ### claude.ai and the Claude desktop app
 
 1. Download [`get-quoted.zip`](https://github.com/In-Motion-Marketing/get-quoted/releases/latest/download/get-quoted.zip) from the [latest release](https://github.com/In-Motion-Marketing/get-quoted/releases/latest). Don't unzip it.
-2. Go to **Settings > Capabilities > Skills** and upload the zip.
-3. Make sure the skill is toggled on.
+2. In Claude, open **Plugins** in the sidebar, click **Add > Upload plugin**, choose the zip, and click **Upload**. It's on as soon as it's added.
+3. To try it, start a chat with `/get-quoted`, or just ask for help answering a journalist request.
 
-Skills need code execution turned on for your account. On Team and Enterprise plans, an admin may need to enable skills first. Menu names change, so check Claude's help center if yours look different.
+Skills need **Create and edit files** turned on under **Settings > Capabilities**. On Team and Enterprise plans, an admin may need to enable skills first. Menu names change, so check Claude's help center if yours look different.
 
 ## Set it up
 
