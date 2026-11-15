@@ -86,7 +86,7 @@ On Windows, the folder is `%USERPROFILE%\.claude\skills`. Or put it in `.claude/
 
 ### claude.ai and the Claude desktop app
 
-1. On the GitHub page, click **Code > Download ZIP** and unzip it. Then zip the inner `get-quoted` folder on its own (the folder itself, not just the files inside it).
+1. Download [`get-quoted.zip`](https://github.com/In-Motion-Marketing/get-quoted/releases/latest/download/get-quoted.zip) from the [latest release](https://github.com/In-Motion-Marketing/get-quoted/releases/latest). Don't unzip it.
 2. Go to **Settings > Capabilities > Skills** and upload the zip.
 3. Make sure the skill is toggled on.
 
